@@ -11,7 +11,7 @@ There are basically 3 codes.
 
 
 Get your PCBs from : PCBgogo coupon: https://www.pcbgogo.com/thanks2021.html                                                                        
-PCBgogo: https://www.pcbgogo.com/promo/from_electronic_GURU 
+PCBgogo: https://www.pcbgogo.com/promo/from_electronic_GURU                                                                                              
 PCBgogo is the experienced quick-turn small-volume PCB prototype and turnkey PCB assembly manufacturer,
 offering 12 &amp; 24 hours expedited PCB prototype service for PCB and PCB assembly.
 PCBgogo fast PCB prototypes manufacturing and assembling is a good choice.
